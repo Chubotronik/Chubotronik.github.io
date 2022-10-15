@@ -1,6 +1,6 @@
 # Site settings
-title: "Titolo sito"
-description: "Descrizione sito"
+title: "AISF Torino"
+description: "Comitato locale di Torino dell'Associazione Italiana Studenti di Fisica"
 url: "https://Chubotronik.github.io"
 destination: ../site/
 locale: "it"
