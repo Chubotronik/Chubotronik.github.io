@@ -3,4 +3,5 @@
   url: https://www.ai-sf.it
 - icon: "share"
   url: "https://www.google.com"
-#- text: chi siamo
+- text: chi siamo
+  url: noi.html
