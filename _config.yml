@@ -25,3 +25,12 @@ collections:
 #plugins:
 # - jekyll-redirect-from
 # - jekyll-sitemap
+
+#roba aggiunta per provare a creare un link
+#defaults:
+#  -
+ #   scope:
+  #    path: "sito aisf"
+   #   type: "pages"
+    #values:
+     # layout: "page"
